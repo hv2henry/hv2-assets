@@ -1,2 +1,2 @@
 # assets
-Aset media Henry Beton untuk blog.
+Aset media Henry Beton.
